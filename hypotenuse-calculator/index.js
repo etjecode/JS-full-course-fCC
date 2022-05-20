@@ -1,4 +1,4 @@
-document.getElementById("submitButton").onclick = function() {
+document.getElementById("submitBtn").onclick = function() {
     a = document.getElementById("aTextBox").value;
     console.log(a, typeof a);
 
@@ -15,4 +15,5 @@ document.getElementById("submitButton").onclick = function() {
     document.getElementById("cLabel").innerHTML = "Side C: "+c;
     console.log(c, typeof c);
 }
+
 
