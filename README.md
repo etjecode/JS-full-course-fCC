@@ -2,4 +2,4 @@
 
 JavaScript sample programs
 
-Deployed @ (etjecode-js-sample-programs.netlify.app "Netlify")
+Deployed @ etjecode-js-sample-programs.netlify.app
