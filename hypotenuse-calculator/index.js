@@ -12,7 +12,7 @@ document.getElementById("submitBtn").onclick = function() {
     console.log(b, typeof b);
 
     c = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
-    document.getElementById("cLabel").innerHTML = "Side C: "+c;
+    document.getElementById("cLabel").innerHTML = "Side C: " + c;
     console.log(c, typeof c);
 }
 
