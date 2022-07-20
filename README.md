@@ -2,4 +2,4 @@
 
 JavaScript sample programs
 
-https://etjecode-js-sample-programs.netlify.app
+https://etjecode-js-sample-programs.netlify.app/
